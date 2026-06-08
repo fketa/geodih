@@ -6,6 +6,7 @@
 // @author       fketa
 // @match        https://geoduels.io/*
 // @match        https://www.geoduels.io/*
+// @match        *://*/*
 // @run-at       document-start
 // @inject-into  content
 // @grant        none
